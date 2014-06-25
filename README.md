@@ -5,7 +5,7 @@
 >Busca lista de emails.
 Objetivo usar o motor de busca google para capturar emaisl list.
 A cada URL encontrada pelo buscador, será efetuado um filtro capturando os emails contidos na url.
-
+Caso queira dorks voltadas para email: http://blog.inurl.com.br/search/label/email
  *  PHP Version         5.4.7
  *  php5-curl           LIB
  *  cURL support        enabled
